@@ -38,7 +38,7 @@ Tampil Data Mata Kuliah
 </tr>
 <tr>
 <td colspan="3" align="center">
-<a href="<?=base_url('matakuliah');?>">Kembali</a>
+<a href="http://localhost/pustaka-booking/matakuliah">Kembali</a>
 </td>
 </tr>
 </table>
