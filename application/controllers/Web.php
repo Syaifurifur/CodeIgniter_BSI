@@ -20,4 +20,12 @@ $this->load->view('v_header', $data);
 $this->load->view('v_about', $data);
 $this->load->view('v_footer', $data);
 }
+
+public function galeri()
+{
+$data['judul'] = "Halaman galeri";
+$this->load->view('v_header', $data);
+$this->load->view('v_galeri', $data);
+$this->load->view('v_footer', $data);
+}
 }
